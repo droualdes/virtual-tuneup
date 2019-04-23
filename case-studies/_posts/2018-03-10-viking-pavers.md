@@ -22,4 +22,4 @@ Virtual TuneUp also did an audit of the company's financials and uncovered a sub
 
 Below is a screenshot of the ERP application developed.
 
-<img src="/assets/viking-pavers.jpg" class="img-fluid" alt="Viking Pavers' Application">
+<img src="{{ "/assets/viking-pavers.jpg" | relative_url }}" class="img-fluid" alt="Viking Pavers' Application">
