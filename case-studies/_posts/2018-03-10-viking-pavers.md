@@ -1,7 +1,7 @@
 ---
 layout: post
 category: case-studies
-title: ERP (Enterprise Resource Planning) Development
+title: ERP (Enterprise Resource Planning) Application Development
 organization: Viking Pavers Construction, Inc.
 date: 2018-03-01
 author: David Roualdes
