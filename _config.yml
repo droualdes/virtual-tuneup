@@ -14,3 +14,8 @@ url: http://virtualtuneup.net
 exclude: [ /yarn.lock, .package.json, .package-lock.json, node_modules ]
 markdown: kramdown
 timezone: America/Los_Angeles
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
